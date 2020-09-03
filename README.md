@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a BTech undergrad in CSE from IIIT Ranchi. I am a Fullstack PHP developer , MERN stack developer and a competitive coder (Python3|C|C++) . Besides this I am a Graphic Designer(AdobeXD,PS), Video Editor(OpenShot) and a Sketch Artist.
+I am a BTech undergrad in CSE from IIIT Ranchi. I am a Fullstack PHP developer , MERN stack developer and a competitive coder (Python3|C|c%2B%2B) . Besides this I am a Graphic Designer(AdobeXD,PS), Video Editor(OpenShot) and a Sketch Artist.
 
 ![Tushar Jain (@tusharjain0022)'s GITHUB stats](https://github-readme-stats.vercel.app/api?username=tusharjain0022&count_private=true&show_icons=true)
